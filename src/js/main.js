@@ -33,7 +33,7 @@ for (let i = 0; i < sliderEl.length; i++) {
     });
 };
 
-////////////////////////////////////////////////////////////////
+///////////////////////////
 
 const questionItem = document.getElementsByClassName("privilege-questions-item");
 const questionDescription = document.getElementsByClassName("privilege-description");
